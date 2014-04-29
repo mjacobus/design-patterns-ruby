@@ -10,45 +10,45 @@ The patterns can be structured in roughly three different categories. Please cli
 
 ### Creational
 
-* [AbstractFactory](#) [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder](#Builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
-* [SimpleFactory](#SimpleFactory)
-* [FactoryMethod](#FactoryMethod) [:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
-* [StaticFactory](#StaticFactory)
-* [Prototype](#Prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
-* [Pool](#Pool) [:notebook:](http://en.wikipedia.org/wiki/Object_pool_pattern)
-* [Singleton](#Singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
-* [Multiton](#Multiton) (is considered an anti-pattern! :no_entry:)
+* AbstractFactory [:notebook:](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* Builder [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
+* SimpleFactor
+* FactoryMethod [:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
+* StaticFactory
+* Prototype [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
+* Pool [:notebook:](http://en.wikipedia.org/wiki/Object_pool_pattern)
+* Singleton [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
+* Multiton (is considered an anti-pattern! :no_entry:)
 
 ### Structural
 
-* [Adapter](#Adapter) [:notebook:](http://en.wikipedia.org/wiki/Adapter_pattern)
-* [Composite](#Composite) [:notebook:](http://en.wikipedia.org/wiki/Composite_pattern)
+* Adapter [:notebook:](http://en.wikipedia.org/wiki/Adapter_pattern)
+* Composite [:notebook:](http://en.wikipedia.org/wiki/Composite_pattern)
 * [Decorator](examples/decorator) [:notebook:](http://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade](#Facade) [:notebook:](http://en.wikipedia.org/wiki/Facade_pattern)
-* [Proxy](#Proxy) [:notebook:](http://en.wikipedia.org/wiki/Proxy_pattern)
-* [Registry](#Registry) [:notebook:](http://en.wikipedia.org/wiki/Service_locator_pattern)
-* [FluentInterface](#FluentInterface) [:notebook:](http://en.wikipedia.org/wiki/Fluent_interface)
-* [DataMapper](#DataMapper) [:notebook:](http://en.wikipedia.org/wiki/Data_mapper_pattern)
-* [DependencyInjection](#DependencyInjection) [:notebook:](http://en.wikipedia.org/wiki/Dependency_injection)
+* Facade [:notebook:](http://en.wikipedia.org/wiki/Facade_pattern)
+* Proxy [:notebook:](http://en.wikipedia.org/wiki/Proxy_pattern)
+* Registry [:notebook:](http://en.wikipedia.org/wiki/Service_locator_pattern)
+* FluentInterface [:notebook:](http://en.wikipedia.org/wiki/Fluent_interface)
+* DataMapper [:notebook:](http://en.wikipedia.org/wiki/Data_mapper_pattern)
+* DependencyInjection [:notebook:](http://en.wikipedia.org/wiki/Dependency_injection)
 
 ### Behavioral
 
-* [ChainOfResponsibilities](#ChainOfResponsibilities) [:notebook:](http://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
-* [Command](#Command) [:notebook:](http://en.wikipedia.org/wiki/Command_pattern)
-* [Iterator](#Iterator) [:notebook:](http://en.wikipedia.org/wiki/Iterator_pattern)
-* [Mediator](#Mediator) [:notebook:](http://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento](#Memento) [:notebook:](http://en.wikipedia.org/wiki/Memento_pattern)
-* [NullObject](#NullObject) [:notebook:](http://en.wikipedia.org/wiki/Null_Object_pattern)
-* [Observer](#Observer) [:notebook:](http://en.wikipedia.org/wiki/Observer_pattern)
-* [Specification](#Specification) [:notebook:](http://en.wikipedia.org/wiki/Specification_pattern)
-* [State](#State) [:notebook:](http://en.wikipedia.org/wiki/State_pattern)
-* [Strategy](#Strategy) [:notebook:](http://en.wikipedia.org/wiki/Strategy_pattern)
-* [TemplateMethod](#TemplateMethod) [:notebook:](http://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor](#Visitor) [:notebook:](http://en.wikipedia.org/wiki/Visitor_pattern)
+* ChainOfResponsibilities [:notebook:](http://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
+* Command [:notebook:](http://en.wikipedia.org/wiki/Command_pattern)
+* Iterator [:notebook:](http://en.wikipedia.org/wiki/Iterator_pattern)
+* Mediator [:notebook:](http://en.wikipedia.org/wiki/Mediator_pattern)
+* Memento [:notebook:](http://en.wikipedia.org/wiki/Memento_pattern)
+* NullObject [:notebook:](http://en.wikipedia.org/wiki/Null_Object_pattern)
+* Observer [:notebook:](http://en.wikipedia.org/wiki/Observer_pattern)
+* Specification [:notebook:](http://en.wikipedia.org/wiki/Specification_pattern)
+* State [:notebook:](http://en.wikipedia.org/wiki/State_pattern)
+* Strategy [:notebook:](http://en.wikipedia.org/wiki/Strategy_pattern)
+* TemplateMethod [:notebook:](http://en.wikipedia.org/wiki/Template_method_pattern)
+* Visitor [:notebook:](http://en.wikipedia.org/wiki/Visitor_pattern)
 
 ### More
-* [Delegation](#Delegation) [:notebook:](http://en.wikipedia.org/wiki/Delegation_pattern)
+* Delegation [:notebook:](http://en.wikipedia.org/wiki/Delegation_pattern)
 
 ## Contribute
 
